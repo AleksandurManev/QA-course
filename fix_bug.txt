@@ -1,3 +1,0 @@
-git add fix_bug.txt
-git commit -m "Добавен файл за решаване на проблема"
-git push
